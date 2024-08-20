@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>false</active>
+        <copied_from/>
+        <description>Submit the current form and confirm form submitted to server</description>
+        <display_name>Submit a Form</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>14</order>
+        <step_config display_value="Submit a Form">be8e0a935332120028bc29cac2dc34e4</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 15:47:58</sys_created_on>
+        <sys_id>7733e57cc38c9210f8423bec050131ad</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Submit a Form</sys_name>
+        <sys_package display_value="Archive PGS" source="x_1226426_archive">518eaf17c3330210f8423bec0501316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Archive PGS">518eaf17c3330210f8423bec0501316e</sys_scope>
+        <sys_update_name>sys_atf_step_7733e57cc38c9210f8423bec050131ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 18:19:31</sys_updated_on>
+        <table/>
+        <test display_value="Archeive PGS">1c39e7ecc3849210f8423bec050131b9</test>
+        <timeout>1970-01-01 00:00:10</timeout>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=7733e57cc38c9210f8423bec050131ad"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>7733e57cc38c9210f8423bec050131ad</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 15:47:58</sys_created_on>
+        <sys_id>8143657cc38c9210f8423bec0501311c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 15:47:58</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="Form UI">ae8b91c9ffa333008d3f5d9ad53bf1ba</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>7733e57cc38c9210f8423bec050131ad</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 15:47:58</sys_created_on>
+        <sys_id>cd43657cc38c9210f8423bec0501311b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 15:47:58</sys_updated_on>
+        <value>form_submitted_to_server</value>
+        <variable display_value="Assert type">c796d40497302200abe4bb7503ac4ad8</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Archive PGS">518eaf17c3330210f8423bec0501316e</application>
+        <file_path/>
+        <instance_id>7c16f12d1b0d42d065324089bd4bcb16</instance_id>
+        <instance_name>dev245674</instance_name>
+        <name>sys_atf_step_7733e57cc38c9210f8423bec050131ad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>false</active><copied_from/><description>Submit the current form and confirm form submitted to server</description><display_name>Submit a Form</display_name><inputs/><mugshots_cache_json/><notes/><order>14</order><step_config display_value="Submit a Form">be8e0a935332120028bc29cac2dc34e4</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-13 15:47:58</sys_created_on><sys_id>7733e57cc38c9210f8423bec050131ad</sys_id><sys_mod_count>10</sys_mod_count><sys_name>Submit a Form</sys_name><sys_package display_value="Archive PGS" source="x_1226426_archive">518eaf17c3330210f8423bec0501316e</sys_package><sys_policy/><sys_scope display_value="Archive PGS">518eaf17c3330210f8423bec0501316e</sys_scope><sys_update_name>sys_atf_step_7733e57cc38c9210f8423bec050131ad</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-13 18:19:31</sys_updated_on><table/><test display_value="Archeive PGS">1c39e7ecc3849210f8423bec050131b9</test><timeout>1970-01-01 00:00:10</timeout><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=7733e57cc38c9210f8423bec050131ad"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>7733e57cc38c9210f8423bec050131ad</document_key><order>50</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-13 15:47:58</sys_created_on><sys_id>8143657cc38c9210f8423bec0501311c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-13 15:47:58</sys_updated_on><value>standard_ui</value><variable display_value="Form UI">ae8b91c9ffa333008d3f5d9ad53bf1ba</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>7733e57cc38c9210f8423bec050131ad</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-13 15:47:58</sys_created_on><sys_id>cd43657cc38c9210f8423bec0501311b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-13 15:47:58</sys_updated_on><value>form_submitted_to_server</value><variable display_value="Assert type">c796d40497302200abe4bb7503ac4ad8</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>1091389777</payload_hash>
+        <record_name>Submit a Form</record_name>
+        <reverted_from/>
+        <source>d58eaf17c3330210f8423bec05013170</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 18:19:31</sys_created_on>
+        <sys_id>f4f58e70c340d210f8423bec050131e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1914cf774860000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 18:19:31</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>fcf58e707340d21027421784aa5c4fe6</update_guid>
+        <update_guid_history>fcf58e707340d21027421784aa5c4fe6:1091389777,5ea50a702540d2108b3f4558018bfd2f:-1670215248,4c5506709f40d21079742da11e6c17f8:1588850999,5f8a657468cc921057ef7b3eed40859b:55488728,49b92d34dfcc92105481af6df44394cb:663279794,26f56930f5cc9210e631deec958bfe5e:968399311,0943657c668c9210bdb0be2854d10e1d:-564962960</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 18:19:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>06bc4053845c421a99c50f44d392b7c4</sys_id>
+        <sys_metadata>7733e57cc38c9210f8423bec050131ad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit a Form</sys_name>
+        <sys_package display_value="Archive PGS" source="x_1226426_archive">518eaf17c3330210f8423bec0501316e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Archive PGS">518eaf17c3330210f8423bec0501316e</sys_scope>
+        <sys_scope_delete display_value="">25ebb42dfc4342faa0511a28827450d9</sys_scope_delete>
+        <sys_update_name>sys_atf_step_7733e57cc38c9210f8423bec050131ad</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_7733e57cc38c9210f8423bec050131ad">f4f58e70c340d210f8423bec050131e7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 18:19:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

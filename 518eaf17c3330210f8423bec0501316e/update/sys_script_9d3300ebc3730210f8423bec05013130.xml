@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>false</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_1226426_archive_pgs_archive</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition table="x_1226426_archive_pgs_archive">has_the_project_demobilisation_process_been_completed=false^has_it_been_confirmed_that_there_is_no_information_needed_from_the_pgs_anymore=false^EQ<item endquery="false" field="has_the_project_demobilisation_process_been_completed" goto="false" newquery="false" operator="=" or="false" value="false"/>
+            <item endquery="false" field="has_it_been_confirmed_that_there_is_no_information_needed_from_the_pgs_anymore" goto="false" newquery="false" operator="=" or="false" value="false"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter_condition>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Making form to submit </name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+	if(current.has_the_project_demobilisation_process_been_completed == false){
+	gs.addErrorMessage("You should fill in all the values before submitting the form");
+	current.setabortAction(true);
+
+	}
+	
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-09 11:45:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9d3300ebc3730210f8423bec05013130</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Making form to submit </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Archive PGS" source="x_1226426_archive">518eaf17c3330210f8423bec0501316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Archive PGS">518eaf17c3330210f8423bec0501316e</sys_scope>
+        <sys_update_name>sys_script_9d3300ebc3730210f8423bec05013130</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-09 12:16:45</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=9d3300ebc3730210f8423bec05013130"/>
+</record_update>

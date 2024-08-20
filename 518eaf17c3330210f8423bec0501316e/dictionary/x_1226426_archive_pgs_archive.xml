@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f114bbdbc3330210f8423bec050131db" extends="task" label="PGS archive" max_length="40" name="x_1226426_archive_pgs_archive" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Archive Reason" mandatory="true" max_length="1000" name="active_reason" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label=" Date of Request" mandatory="true" max_length="40" name="date_of_request" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Expected Archive Date" mandatory="true" max_length="40" name="expected_archive_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Expected date for communication to be released" mandatory="true" max_length="40" name="expected_date_for_communication_to_be_released" type="glide_date"/>
+        <element label="Has it been confirmed that there is no information needed from the PGS anymore?" max_length="40" name="has_it_been_confirmed_that_there_is_no_information_needed_from_the_pgs_anymore" type="boolean"/>
+        <element label="Has the project demobilisation process been completed?" max_length="40" name="has_the_project_demobilisation_process_been_completed" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Other information that needs to be put in the communication" max_length="40" name="other_information_that_needs_to_be_put_in_the_communication" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Person or team that needs to receive the communication once the PGS is archived" max_length="1000" name="person_or_team_that_needs_to_receive_the_communication_once_the_pgs_is_archived" type="string"/>
+        <element attributes="encode_utf8=false" label="PGS Name" max_length="32" name="pgs_name" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="PGS Site Editor (if known)" max_length="32" name="pgs_sute_editor_if_known" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Project Manager" max_length="32" name="project_manager" reference="sys_user" type="reference"/>
+        <element active="false" attributes="encode_utf8=false" label="Region / Country" max_length="32" name="region_country" reference="core_country" type="reference"/>
+        <element attributes="encode_utf8=false" label="Requestor Name" mandatory="true" max_length="32" name="requestor_name" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Is Governance exist?" mandatory="true" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+    </element>
+</database>

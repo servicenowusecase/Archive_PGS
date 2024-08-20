@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>false</active>
+        <copied_from/>
+        <description>Set the following values on the form:
+State = Approved</description>
+        <display_name>Set Field Values</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>12</order>
+        <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 09:35:17</sys_created_on>
+        <sys_id>e6ed4434c3489210f8423bec050131c7</sys_id>
+        <sys_mod_count>19</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="Archive PGS" source="x_1226426_archive">518eaf17c3330210f8423bec0501316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Archive PGS">518eaf17c3330210f8423bec0501316e</sys_scope>
+        <sys_update_name>sys_atf_step_e6ed4434c3489210f8423bec050131c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 18:19:32</sys_updated_on>
+        <table>sysapproval_approver</table>
+        <test display_value="Archeive PGS">1c39e7ecc3849210f8423bec050131b9</test>
+        <timeout>1970-01-01 00:00:00</timeout>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=e6ed4434c3489210f8423bec050131c7"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>e6ed4434c3489210f8423bec050131c7</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 09:35:17</sys_created_on>
+        <sys_id>71fd0cf0c3489210f8423bec05013147</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 09:35:17</sys_updated_on>
+        <value>state=approved^EQ</value>
+        <variable display_value="Field values">b3dba2465320220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>e6ed4434c3489210f8423bec050131c7</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 09:35:17</sys_created_on>
+        <sys_id>bdfd0cf0c3489210f8423bec05013146</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 09:35:17</sys_updated_on>
+        <value>sysapproval_approver</value>
+        <variable display_value="Table">424ca6465320220002c6435723dc34b5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>e6ed4434c3489210f8423bec050131c7</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 09:35:17</sys_created_on>
+        <sys_id>f9fd0cf0c3489210f8423bec05013146</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 09:35:17</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="Form UI">946f3c1a0f23330072e6452bc4767eda</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_fcae4a935332120028bc29cac2dc340e^id=e6ed4434c3489210f8423bec050131c7"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Archive PGS">518eaf17c3330210f8423bec0501316e</application>
+        <file_path/>
+        <instance_id>7c16f12d1b0d42d065324089bd4bcb16</instance_id>
+        <instance_name>dev245674</instance_name>
+        <name>sys_atf_step_e6ed4434c3489210f8423bec050131c7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>false</active><copied_from/><description>Set the following values on the form:
+State = Approved</description><display_name>Set Field Values</display_name><inputs/><mugshots_cache_json/><notes/><order>12</order><step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-13 09:35:17</sys_created_on><sys_id>e6ed4434c3489210f8423bec050131c7</sys_id><sys_mod_count>19</sys_mod_count><sys_name>Set Field Values</sys_name><sys_package display_value="Archive PGS" source="x_1226426_archive">518eaf17c3330210f8423bec0501316e</sys_package><sys_policy/><sys_scope display_value="Archive PGS">518eaf17c3330210f8423bec0501316e</sys_scope><sys_update_name>sys_atf_step_e6ed4434c3489210f8423bec050131c7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-13 18:19:32</sys_updated_on><table>sysapproval_approver</table><test display_value="Archeive PGS">1c39e7ecc3849210f8423bec050131b9</test><timeout>1970-01-01 00:00:00</timeout><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=e6ed4434c3489210f8423bec050131c7"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>e6ed4434c3489210f8423bec050131c7</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-13 09:35:17</sys_created_on><sys_id>71fd0cf0c3489210f8423bec05013147</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-13 09:35:17</sys_updated_on><value>state=approved^EQ</value><variable display_value="Field values">b3dba2465320220002c6435723dc34f0</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>e6ed4434c3489210f8423bec050131c7</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-13 09:35:17</sys_created_on><sys_id>bdfd0cf0c3489210f8423bec05013146</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-13 09:35:17</sys_updated_on><value>sysapproval_approver</value><variable display_value="Table">424ca6465320220002c6435723dc34b5</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>e6ed4434c3489210f8423bec050131c7</document_key><order>50</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-13 09:35:17</sys_created_on><sys_id>f9fd0cf0c3489210f8423bec05013146</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-13 09:35:17</sys_updated_on><value>standard_ui</value><variable display_value="Form UI">946f3c1a0f23330072e6452bc4767eda</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_fcae4a935332120028bc29cac2dc340e^id=e6ed4434c3489210f8423bec050131c7"/></record_update>]]></payload>
+        <payload_hash>-907177080</payload_hash>
+        <record_name>Set Field Values</record_name>
+        <reverted_from/>
+        <source>d58eaf17c3330210f8423bec05013170</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 18:19:32</sys_created_on>
+        <sys_id>9df5ce70c340d210f8423bec05013166</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1914cf77ae60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 18:19:32</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>95f5ce70de40d210d6d454551bd02f66</update_guid>
+        <update_guid_history>95f5ce70de40d210d6d454551bd02f66:-907177080,b8f58e700340d210e773ed66025b13e2:1084865865,b7958a708f40d2104ca88f35d4253d3d:-1218058486,08550670a140d210ca9eed65d3139bfd:-1904949231,f69aad7495cc9210e25e7f1f3d504153:397975120,e799a53415cc9210b189747e9cff2170:-593690286,22f5693050cc9210e7f2c2c424eff973:657663442,c403a57c168c9210f878e438b9227bd3:1913028753,08c391fceb4c9210510352b0b3d85285:-1126573232,65e255bc3a4c921093ddc9021751f257:1913028753,af88b034a00c921058dd383a75c7be21:657663442,75fdc434f9489210e9ca59e02dd247cc:1913028753</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 18:19:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>2957e0c1e4f647fda1219654f6c906c9</sys_id>
+        <sys_metadata>e6ed4434c3489210f8423bec050131c7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="Archive PGS" source="x_1226426_archive">518eaf17c3330210f8423bec0501316e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Archive PGS">518eaf17c3330210f8423bec0501316e</sys_scope>
+        <sys_scope_delete display_value="">25ebb42dfc4342faa0511a28827450d9</sys_scope_delete>
+        <sys_update_name>sys_atf_step_e6ed4434c3489210f8423bec050131c7</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_e6ed4434c3489210f8423bec050131c7">9df5ce70c340d210f8423bec05013166</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 18:19:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

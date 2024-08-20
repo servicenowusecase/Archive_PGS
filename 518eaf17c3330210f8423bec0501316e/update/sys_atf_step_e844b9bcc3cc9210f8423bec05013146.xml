@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Set the following values on the form:
+Has it been confirmed that there is no information needed from the PGS anymore? = true
+and Has the project demobilisation process been completed? = true
+and Expected date for communication to be released = 2024-08-15
+and Requestor Name = PGS User
+and Archive Reason = fgcghhjv
+and Expected Archive Date = 2024-08-22
+and Date of Request = 2024-08-23
+and Is Governance exist? = Yes</description>
+        <display_name>Set Field Values</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>2</order>
+        <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 17:03:05</sys_created_on>
+        <sys_id>e844b9bcc3cc9210f8423bec05013146</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="Archive PGS" source="x_1226426_archive">518eaf17c3330210f8423bec0501316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Archive PGS">518eaf17c3330210f8423bec0501316e</sys_scope>
+        <sys_update_name>sys_atf_step_e844b9bcc3cc9210f8423bec05013146</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 17:03:05</sys_updated_on>
+        <table>x_1226426_archive_pgs_archive</table>
+        <test display_value="My New Test">1de3b9bcc3cc9210f8423bec0501313e</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=e844b9bcc3cc9210f8423bec05013146"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>e844b9bcc3cc9210f8423bec05013146</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 17:03:05</sys_created_on>
+        <sys_id>1574fdbcc3cc9210f8423bec0501317a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 17:03:05</sys_updated_on>
+        <value>x_1226426_archive_pgs_archive</value>
+        <variable display_value="Table">424ca6465320220002c6435723dc34b5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>e844b9bcc3cc9210f8423bec05013146</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 17:03:05</sys_created_on>
+        <sys_id>5174fdbcc3cc9210f8423bec0501317a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 17:03:05</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="Form UI">946f3c1a0f23330072e6452bc4767eda</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>e844b9bcc3cc9210f8423bec05013146</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 17:03:05</sys_created_on>
+        <sys_id>d574fdbcc3cc9210f8423bec0501317a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 17:03:05</sys_updated_on>
+        <value>has_it_been_confirmed_that_there_is_no_information_needed_from_the_pgs_anymore=true^has_the_project_demobilisation_process_been_completed=true^expected_date_for_communication_to_be_released=2024-08-15^requestor_name=0d133a9cc3045210f8423bec050131de^active_reason=fgcghhjv^expected_archive_date=2024-08-22^date_of_request=2024-08-23^u_choice_1=yes^EQ</value>
+        <variable display_value="Field values">b3dba2465320220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_fcae4a935332120028bc29cac2dc340e^id=e844b9bcc3cc9210f8423bec05013146"/>
+</record_update>

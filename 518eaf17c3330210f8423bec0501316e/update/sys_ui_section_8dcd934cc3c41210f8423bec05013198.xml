@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Project Governance System Details" section_id="8dcd934cc3c41210f8423bec05013198" sys_domain="global" table="x_1226426_archive_pgs_archive" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-13 09:21:33</sys_created_on>
+            <sys_id>acda8470c3489210f8423bec050131fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Governance System Details" display_value="Project Governance System Details" name="x_1226426_archive_pgs_archive" sys_domain="global" view="Default view">8dcd934cc3c41210f8423bec05013198</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-13 09:21:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>has_the_project_demobilisation_process_been_completed</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-13 09:21:33</sys_created_on>
+            <sys_id>e4da8470c3489210f8423bec050131fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Governance System Details" display_value="Project Governance System Details" name="x_1226426_archive_pgs_archive" sys_domain="global" view="Default view">8dcd934cc3c41210f8423bec05013198</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-13 09:21:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>has_it_been_confirmed_that_there_is_no_information_needed_from_the_pgs_anymore</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-13 09:21:33</sys_created_on>
+            <sys_id>e8da8470c3489210f8423bec050131fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Governance System Details" display_value="Project Governance System Details" name="x_1226426_archive_pgs_archive" sys_domain="global" view="Default view">8dcd934cc3c41210f8423bec05013198</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-13 09:21:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-13 09:21:33</sys_created_on>
+            <sys_id>ecda8470c3489210f8423bec050131fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Governance System Details" display_value="Project Governance System Details" name="x_1226426_archive_pgs_archive" sys_domain="global" view="Default view">8dcd934cc3c41210f8423bec05013198</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-13 09:21:33</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-13 09:21:33</sys_created_on>
+            <sys_id>e0da8470c3489210f8423bec050131ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Governance System Details" display_value="Project Governance System Details" name="x_1226426_archive_pgs_archive" sys_domain="global" view="Default view">8dcd934cc3c41210f8423bec05013198</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-13 09:21:33</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-13 09:21:33</sys_created_on>
+            <sys_id>e4da8470c3489210f8423bec050131ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Governance System Details" display_value="Project Governance System Details" name="x_1226426_archive_pgs_archive" sys_domain="global" view="Default view">8dcd934cc3c41210f8423bec05013198</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-13 09:21:33</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_of_request</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-13 09:21:33</sys_created_on>
+            <sys_id>e8da8470c3489210f8423bec050131ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Governance System Details" display_value="Project Governance System Details" name="x_1226426_archive_pgs_archive" sys_domain="global" view="Default view">8dcd934cc3c41210f8423bec05013198</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-13 09:21:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requestor_name</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-13 09:21:33</sys_created_on>
+            <sys_id>ecda8470c3489210f8423bec050131ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Governance System Details" display_value="Project Governance System Details" name="x_1226426_archive_pgs_archive" sys_domain="global" view="Default view">8dcd934cc3c41210f8423bec05013198</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-13 09:21:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requestor_name.x_1226426_archive_pgs_name</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-13 09:21:33</sys_created_on>
+            <sys_id>e0dac470c3489210f8423bec05013100</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Governance System Details" display_value="Project Governance System Details" name="x_1226426_archive_pgs_archive" sys_domain="global" view="Default view">8dcd934cc3c41210f8423bec05013198</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-13 09:21:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requestor_name.x_1226426_archive_country</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-13 09:21:33</sys_created_on>
+            <sys_id>e4dac470c3489210f8423bec05013100</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Governance System Details" display_value="Project Governance System Details" name="x_1226426_archive_pgs_archive" sys_domain="global" view="Default view">8dcd934cc3c41210f8423bec05013198</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-13 09:21:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requestor_name.x_1226426_archive_project_manager</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-13 09:21:33</sys_created_on>
+            <sys_id>e8dac470c3489210f8423bec05013100</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Governance System Details" display_value="Project Governance System Details" name="x_1226426_archive_pgs_archive" sys_domain="global" view="Default view">8dcd934cc3c41210f8423bec05013198</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-13 09:21:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-13 09:21:33</sys_created_on>
+            <sys_id>ecdac470c3489210f8423bec05013100</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Governance System Details" display_value="Project Governance System Details" name="x_1226426_archive_pgs_archive" sys_domain="global" view="Default view">8dcd934cc3c41210f8423bec05013198</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-13 09:21:33</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pgs_sute_editor_if_known</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-13 09:21:33</sys_created_on>
+            <sys_id>e0dac470c3489210f8423bec05013101</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Governance System Details" display_value="Project Governance System Details" name="x_1226426_archive_pgs_archive" sys_domain="global" view="Default view">8dcd934cc3c41210f8423bec05013198</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-13 09:21:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_1</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-13 09:21:33</sys_created_on>
+            <sys_id>e4dac470c3489210f8423bec05013101</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Governance System Details" display_value="Project Governance System Details" name="x_1226426_archive_pgs_archive" sys_domain="global" view="Default view">8dcd934cc3c41210f8423bec05013198</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-13 09:21:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Project Governance System Details</caption>
+            <header>false</header>
+            <name>x_1226426_archive_pgs_archive</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-11 16:47:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8dcd934cc3c41210f8423bec05013198</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1226426_archive_pgs_archive</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Archive PGS" source="x_1226426_archive">518eaf17c3330210f8423bec0501316e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Archive PGS">518eaf17c3330210f8423bec0501316e</sys_scope>
+            <sys_update_name>sys_ui_section_8dcd934cc3c41210f8423bec05013198</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-11 16:47:44</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

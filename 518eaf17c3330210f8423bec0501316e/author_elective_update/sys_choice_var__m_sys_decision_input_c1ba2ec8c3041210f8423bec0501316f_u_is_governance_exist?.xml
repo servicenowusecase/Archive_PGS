@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_is_governance_exist?" table="var__m_sys_decision_input_c1ba2ec8c3041210f8423bec0501316f" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_is_governance_exist?</element>
+            <name>var__m_sys_decision_input_c1ba2ec8c3041210f8423bec0501316f</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-11 13:06:11</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_is_governance_exist?</sys_name>
+            <sys_package display_value="Archive PGS" source="x_1226426_archive">518eaf17c3330210f8423bec0501316e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Archive PGS">518eaf17c3330210f8423bec0501316e</sys_scope>
+            <sys_update_name>sys_choice_var__m_sys_decision_input_c1ba2ec8c3041210f8423bec0501316f_u_is_governance_exist?</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-11 13:06:11</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_is_governance_exist?</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_c1ba2ec8c3041210f8423bec0501316f</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-11 13:06:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-11 13:06:11</sys_updated_on>
+            <value>yes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_is_governance_exist?</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_c1ba2ec8c3041210f8423bec0501316f</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-11 13:06:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-11 13:06:11</sys_updated_on>
+            <value>no</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

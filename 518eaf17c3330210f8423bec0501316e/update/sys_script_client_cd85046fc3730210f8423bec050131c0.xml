@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Making form to submit</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+   var check1 = g_form.getValue('has_the_project_demobilisation_process_been_completed');
+   var check2 = g_form.getValue('has_it_been_confirmed_that_there_is_no_information_needed_from_the_pgs_anymore');
+   if (check1 !='true' || check2 != 'true') {
+       // Display an alert message
+       g_form.addErrorMessage('You must fill all the field values before submitting');
+	    return false;
+   }
+
+   return true; //// Allow the form to be submit
+
+}
+
+
+]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-09 11:47:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cd85046fc3730210f8423bec050131c0</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Making form to submit</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Archive PGS" source="x_1226426_archive">518eaf17c3330210f8423bec0501316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Archive PGS">518eaf17c3330210f8423bec0501316e</sys_scope>
+        <sys_update_name>sys_script_client_cd85046fc3730210f8423bec050131c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-09 14:29:30</sys_updated_on>
+        <table>x_1226426_archive_pgs_archive</table>
+        <type>onSubmit</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

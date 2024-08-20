@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="has_it_been_confirmed_that_there_is_no_information_needed_from_the_pgs_anymore" table="x_1226426_archive_pgs_archive" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>has_it_been_confirmed_that_there_is_no_information_needed_from_the_pgs_anymore</element>
+            <name>x_1226426_archive_pgs_archive</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-09 10:47:23</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>has_it_been_confirmed_that_there_is_no_information_needed_from_the_pgs_anymore</sys_name>
+            <sys_package display_value="Archive PGS" source="x_1226426_archive">518eaf17c3330210f8423bec0501316e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Archive PGS">518eaf17c3330210f8423bec0501316e</sys_scope>
+            <sys_update_name>sys_choice_x_1226426_archive_pgs_archive_has_it_been_confirmed_that_there_is_no_information_needed_from_the_pgs_anymore</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-09 10:47:23</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>has_it_been_confirmed_that_there_is_no_information_needed_from_the_pgs_anymore</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>-- New choice --</label>
+            <language>en</language>
+            <name>x_1226426_archive_pgs_archive</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-09 10:47:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-09 10:47:23</sys_updated_on>
+            <value>-- New choice --</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

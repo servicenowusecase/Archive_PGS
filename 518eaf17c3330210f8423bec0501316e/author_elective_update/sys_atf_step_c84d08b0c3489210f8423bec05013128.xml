@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>false</active>
+        <copied_from/>
+        <description>Impersonate the user: Trish  Lewis with user Id: Trish
+
+Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead&#13;
+See the documentation for Test Design Considerations</description>
+        <display_name>Impersonate</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>11</order>
+        <step_config display_value="Impersonate">071ee5b253331200040729cac2dc348d</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 09:32:34</sys_created_on>
+        <sys_id>c84d08b0c3489210f8423bec05013128</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>Impersonate</sys_name>
+        <sys_package display_value="Archive PGS" source="x_1226426_archive">518eaf17c3330210f8423bec0501316e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Archive PGS">518eaf17c3330210f8423bec0501316e</sys_scope>
+        <sys_update_name>sys_atf_step_c84d08b0c3489210f8423bec05013128</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 18:17:12</sys_updated_on>
+        <table/>
+        <test display_value="Archeive PGS">1c39e7ecc3849210f8423bec050131b9</test>
+        <timeout/>
+        <warning_message>Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead&#13;
+See the documentation for Test Design Considerations</warning_message>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=c84d08b0c3489210f8423bec05013128"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>c84d08b0c3489210f8423bec05013128</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 09:32:34</sys_created_on>
+        <sys_id>4a5dccb0c3489210f8423bec05013117</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 09:33:48</sys_updated_on>
+        <value>12314127c3770210f8423bec05013192</value>
+        <variable display_value="User">586e2c4253e0220002c6435723dc3415</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_071ee5b253331200040729cac2dc348d^id=c84d08b0c3489210f8423bec05013128"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Archive PGS">518eaf17c3330210f8423bec0501316e</application>
+        <file_path/>
+        <instance_id>7c16f12d1b0d42d065324089bd4bcb16</instance_id>
+        <instance_name>dev245674</instance_name>
+        <name>sys_atf_step_c84d08b0c3489210f8423bec05013128</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>false</active><copied_from/><description>Impersonate the user: Trish  Lewis with user Id: Trish
+
+Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead&#13;
+See the documentation for Test Design Considerations</description><display_name>Impersonate</display_name><inputs/><mugshots_cache_json/><notes/><order>11</order><step_config display_value="Impersonate">071ee5b253331200040729cac2dc348d</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-13 09:32:34</sys_created_on><sys_id>c84d08b0c3489210f8423bec05013128</sys_id><sys_mod_count>12</sys_mod_count><sys_name>Impersonate</sys_name><sys_package display_value="Archive PGS" source="x_1226426_archive">518eaf17c3330210f8423bec0501316e</sys_package><sys_policy/><sys_scope display_value="Archive PGS">518eaf17c3330210f8423bec0501316e</sys_scope><sys_update_name>sys_atf_step_c84d08b0c3489210f8423bec05013128</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-13 18:17:12</sys_updated_on><table/><test display_value="Archeive PGS">1c39e7ecc3849210f8423bec050131b9</test><timeout/><warning_message>Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead&#13;
+See the documentation for Test Design Considerations</warning_message></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=c84d08b0c3489210f8423bec05013128"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>c84d08b0c3489210f8423bec05013128</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-13 09:32:34</sys_created_on><sys_id>4a5dccb0c3489210f8423bec05013117</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-13 09:33:48</sys_updated_on><value>12314127c3770210f8423bec05013192</value><variable display_value="User">586e2c4253e0220002c6435723dc3415</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_071ee5b253331200040729cac2dc348d^id=c84d08b0c3489210f8423bec05013128"/></record_update>]]></payload>
+        <payload_hash>254766833</payload_hash>
+        <record_name>Impersonate</record_name>
+        <reverted_from/>
+        <source>d58eaf17c3330210f8423bec05013170</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 18:17:12</sys_created_on>
+        <sys_id>fe65c670c340d210f8423bec05013114</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1914cf554be0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 18:17:12</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>f665c6709340d21006fd1f19c1def614</update_guid>
+        <update_guid_history>f665c6709340d21006fd1f19c1def614:254766833,045546704b40d2105697e3971a14a10e:965474808,9c03a57cf08c92104d5c51426033dadd:1753969433,4cc391fc194c9210863ffa8b3471317a:-1856117889,a9e255bc6d4c9210a88eaf14d53acf4c:1753969433,6788b034c10c92103c4d5f4a5a8ea42c:965474808,84ad80348548921086a32075c571d82a:1753969433,c25dccb08f489210770a09d852222519:1010255625</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-13 18:19:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>9404ee4881d74335b55614174da60561</sys_id>
+        <sys_metadata>c84d08b0c3489210f8423bec05013128</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Impersonate</sys_name>
+        <sys_package display_value="Archive PGS" source="x_1226426_archive">518eaf17c3330210f8423bec0501316e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Archive PGS">518eaf17c3330210f8423bec0501316e</sys_scope>
+        <sys_scope_delete display_value="">25ebb42dfc4342faa0511a28827450d9</sys_scope_delete>
+        <sys_update_name>sys_atf_step_c84d08b0c3489210f8423bec05013128</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_c84d08b0c3489210f8423bec05013128">fe65c670c340d210f8423bec05013114</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-13 18:19:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

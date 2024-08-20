@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="35d464861882021076dae3f117ba1ef4" label="Approval" max_length="40" name="sysapproval_approver" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Is Governance Exist?" max_length="40" name="x_1226426_archive_is_governance_exist" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+    </element>
+</database>
