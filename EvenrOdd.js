@@ -1,4 +1,5 @@
 // 3. Even or Odd Checker
+//Testing
 function isEvenOrOdd(num) {
     if (num % 2 === 0) {
         return `${num} is Even`;
