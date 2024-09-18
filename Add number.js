@@ -1,5 +1,5 @@
 //2. Addition of Two Numbers
-// Testing
+// Testings
 function addNumbers(a, b) {
     return a + b;
 }
