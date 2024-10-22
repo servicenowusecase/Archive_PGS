@@ -7,4 +7,4 @@ function isEvenOrOdd(num) {
     }
 }
 
-console.log(isEvenOrOdd(7)); // Output: 7 is Odd
+console.log(isEvenOrOdd(7)); // Output: 7 is Odd number
