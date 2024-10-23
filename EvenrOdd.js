@@ -3,7 +3,7 @@ function isEvenOrOdd(num) {
     if (num % 2 === 0) {
         return `${num} is Even number`;
     } else {
-        return `${num} is Odd`;
+        return `${num} is Odd number`;
     }
 }
 
